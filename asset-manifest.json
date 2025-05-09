@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HKU_Safenight/static/css/main.7052e2a1.css",
-    "main.js": "/HKU_Safenight/static/js/main.d23f9a43.js",
+    "main.js": "/HKU_Safenight/static/js/main.492ccab5.js",
     "static/js/453.10ce7932.chunk.js": "/HKU_Safenight/static/js/453.10ce7932.chunk.js",
     "index.html": "/HKU_Safenight/index.html",
     "main.7052e2a1.css.map": "/HKU_Safenight/static/css/main.7052e2a1.css.map",
-    "main.d23f9a43.js.map": "/HKU_Safenight/static/js/main.d23f9a43.js.map",
+    "main.492ccab5.js.map": "/HKU_Safenight/static/js/main.492ccab5.js.map",
     "453.10ce7932.chunk.js.map": "/HKU_Safenight/static/js/453.10ce7932.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7052e2a1.css",
-    "static/js/main.d23f9a43.js"
+    "static/js/main.492ccab5.js"
   ]
 }
