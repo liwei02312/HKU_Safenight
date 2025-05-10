@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20250510</CreaDate><CreaTime>19305400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20250510" Time="193054">JSONToFeatures C:\7311\final\safetynight\public\roads.geojson C:\7311\final\safetynight\public\roads_shp.shp 折线</Process></lineage></DataProperties></Esri></metadata>
